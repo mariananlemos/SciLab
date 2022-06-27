@@ -1,2 +1,2 @@
 # SciLab
-Atividade realizada na UC em cálculo numérico
+Atividades realizadas na UC em cálculo numérico
